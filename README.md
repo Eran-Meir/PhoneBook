@@ -1,6 +1,8 @@
 # PhoneBook
 ## Written by Eran Meir
 
+![alt text](https://github.com/Eran-Meir/PhoneBook/blob/main/Import.jpg)
+
 ### Main.java
 From here we run our program
 
